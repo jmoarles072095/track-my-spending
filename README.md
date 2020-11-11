@@ -6,6 +6,10 @@
 
 Application that lets user keeptrack if finances by simply adding or subtracting transactions, it has a chart which shows how much yoy have spent and how many transactions the user has made.
  
+## Images of Deployed App
+
+<img src="./images/deployed.png" alt="Screenshot of deployed app">
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
